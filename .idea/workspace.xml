@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0c6aa24-d2ca-44b0-b930-5cbc882fc045" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quera.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackToPark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Buss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Marriage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maximum4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rivers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SecurityCam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrictDiet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/company/first/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/company/first/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/company/first/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/company/first/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/company/first/MyList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unit5/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unit5/InputLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unit5/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unit5/PoppySleep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unit5/UntilXTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unit5/WriteOpposite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unit5/YelloQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unit6/PrimeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unit6/goodNumber/GoodNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unit6/goodNumber/GoodNumber2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unit6/goodNumber/GoodNumberQuera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unit8/SumAll.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LKQuModv8K3pJAMRHNr6ksxlq2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="AdranCompany.first" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="GoodNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unit6.goodNumber.GoodNumber" />
+      <module name="quera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unit6.goodNumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="company.first.Main" />
+      <module name="quera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="company.first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="company.first.Main2" />
+      <module name="quera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="company.first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unit6.PrimeNumbers" />
+      <module name="quera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unit6.goodNumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unit8.SumAll" />
+      <module name="quera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unit8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.SumAll" />
+        <item itemvalue="Application.GoodNumber" />
+        <item itemvalue="Application.PrimeNumbers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0c6aa24-d2ca-44b0-b930-5cbc882fc045" name="Changes" comment="" />
+      <created>1675617517057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675617517057</updated>
+      <workItem from="1675617519066" duration="3350000" />
+      <workItem from="1675663620340" duration="8004000" />
+      <workItem from="1675836879153" duration="5279000" />
+      <workItem from="1675998740728" duration="599000" />
+      <workItem from="1676035138299" duration="641000" />
+      <workItem from="1676231227811" duration="2187000" />
+      <workItem from="1676267436845" duration="10560000" />
+      <workItem from="1676384162436" duration="13000" />
+      <workItem from="1676392937347" duration="1285000" />
+      <workItem from="1676398549910" duration="7603000" />
+      <workItem from="1676493105846" duration="4317000" />
+      <workItem from="1676610464823" duration="19412000" />
+      <workItem from="1676738590110" duration="630000" />
+      <workItem from="1676802399968" duration="1366000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Marriage.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SecurityCam.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Maximum4.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/unit5/InputLoop.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/unit5/UntilXTimes.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/unit5/UntilXTimes.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/unit5/PoppySleep.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/unit6/PrimeNumbers.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/unit6/goodNumber/GoodNumber.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/unit6/goodNumber/GoodNumber.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/unit6/goodNumber/GoodNumber.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/unit6/goodNumber/GoodNumber.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/company/first/BinaryTree.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/company/first/MyList.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
